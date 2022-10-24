@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf92dcb2-6338-4cb5-bd83-9c5d4b82e948" name="Changes" comment="oppgave1_Aritmetikk">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IT_first.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke1/uke1_hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke2class/oppgave1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke2class/oppgave2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke2class/oppgave3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke2class/oppgave4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke2class/streng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke2class/streng2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke2class/uke2_Strenger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke3/eks4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke3/eks5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke3/oppgave/Oppgave2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke3/oppgave/oppgave1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke3/oppgave/oppgave3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke3/oppgave/oppgave4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke3/variable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke4_Aritmetikk/klass/Aritmetikk1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke4_Aritmetikk/oppgave/oppgave1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke4_Aritmetikk/oppgave/oppgave10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke4_Aritmetikk/oppgave/oppgave11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke4_Aritmetikk/oppgave/oppgave2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke4_Aritmetikk/oppgave/oppgave3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke4_Aritmetikk/oppgave/oppgave4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke4_Aritmetikk/oppgave/oppgave5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke4_Aritmetikk/oppgave/oppgave6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke4_Aritmetikk/oppgave/oppgave7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke4_Aritmetikk/oppgave/oppgave8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke4_Aritmetikk/oppgave/oppgave9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke4_Aritmetikk/oppgave/variabler/variabler1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke5_klasser_objekter1/oppgaver/oppgave1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke5_klasser_objekter1/oppgaver/oppgave2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke5_klasser_objekter1/oppgaver/oppgave3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke5_klasser_objekter1/oppgaver/oppgave4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke5_klasser_objekter1/oppgaver/oppgave5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke5_klasser_objekter1/skolen/BilKlass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke5_klasser_objekter1/skolen/HelloVerden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke5_klasser_objekter1/skolen/Klasser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke5_klasser_objekter1/skolen/objekter1/Bil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke5_klasser_objekter1/skolen/objekter1/Eksempel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/oppgaver/oppgave1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/oppgaver/oppgave2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/oppgaver/oppgave3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/oppgaver/oppgave3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/oppgaver/oppgave4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/oppgaver/oppgave5/Konto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/oppgaver/oppgave6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/oppgaver_switch/oppgave1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/oppgaver_switch/oppgave2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/oppgaver_switch/oppgave3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/oppgaver_switch/oppgave4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/oppgaver_switch/oppgave5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/skolen/BilEksempel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/skolen/EksempelBil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/skolen/PersonEksempel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/skolen/PersonGetSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/skolen/Personx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/skolen/deneme2if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/AndreOppgaver/oppgave1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/AndreOppgaver/oppgave2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/AndreOppgaver/oppgave3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/AndreOppgaver/oppgave4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/AndreOppgaver/oppgave5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/AndreOppgaver/oppgave6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/AndreOppgaver/oppgave7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/AndreOppgaver/oppgave8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/AndreOppgaver/oppgave9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/klasse/DoWhileLøkker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/klasse/Summenavtaller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/klasse/ifLøker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/klasse/multiplikasjonstabelen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/klasse/parTall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/klasse/summedif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/klasse/summerTall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/klasse/whileLøker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/oppgaver/oppgave1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/oppgaver/oppgave2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/oppgaver/oppgave3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/oppgaver/oppgave4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/oppgaver/oppgave5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/oppgaver/oppgave6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/oppgaver/oppgave7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/oppgaver/oppgave8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/oppgaver/oppgaveVans1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/oppgaver/oppgaveVans2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke7/oppgaver/oppgaveVans3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/klassen/klass1_Liste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/klassen/klass2_KlasOgList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/klassen/klass3_MetodOgList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uke9_Array2/skolen/LeggeObjekt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uke9_Array2/skolen/listen.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/firstsemester/uke6_klasser_objektor/oppgaver/oppgave3.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E1baQbFdgmt3JC8ErBiBRMnUNe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gulnur/IdeaProjects/oblig2_deneme&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.oppgaveVans1">
+    <configuration name="Oblig2_Oppgave1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oblig2.Oblig2_Oppgave1" />
+      <module name="IT_first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oblig2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oppgaveVans1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstsemester.uke7.oppgaver.oppgaveVans1" />
+      <module name="IT_first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstsemester.uke7.oppgaver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.oppgaveVans1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf92dcb2-6338-4cb5-bd83-9c5d4b82e948" name="Changes" comment="" />
+      <created>1661766103477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661766103477</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oppgave1_Aritmetikk" />
+    <option name="LAST_COMMIT_MESSAGE" value="oppgave1_Aritmetikk" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/firstsemester/uke2class/streng.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
