@@ -4,83 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf92dcb2-6338-4cb5-bd83-9c5d4b82e948" name="Changes" comment="oppgave1_Aritmetikk">
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2019_1/Oppgave1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2019_1/Oppgave3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2019_1/oppgave2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2019_2/Oppgave2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2020_1/Oppgave1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2020_1/Oppgave2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2020_1/Oppgave3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2020_2/Oppgave1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2020_2/Oppgave2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2020_2/Oppgave3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2021_1/Oppgave1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2021_1/Oppgave2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2021_1/Oppgave3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2021_1/Oppgave4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2021_2/Oppgave1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2021_2/Oppgave2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2021_2/Oppgave3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2022/Oppgave1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2022/Oppgave2/Oppgave2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Eksamen/Programmering_2022/Oppgave3/Oppgave3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/ExamenForbrening/skolen/FXML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/ExamenForbrening/skolen/Task1_2019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/ExamenForbrening/skolen/Task4_2019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/ExamenForbrening/skolen/task2_2019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/ExamenForbrening/skolen/task3_2019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Oppgave4/Oppgave1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/Oppgave4/Oppgave2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke11_KlassOgObjekterMer/forelesing/ByRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke11_KlassOgObjekterMer/forelesing/PlenumMerKlasserObjekter1/Ansatt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke11_KlassOgObjekterMer/forelesing/PlenumMerKlasserObjekter1/Dato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke11_KlassOgObjekterMer/forelesing/PlenumMerKlasserObjekter1/PlenumMerKlasserObjekter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke11_KlassOgObjekterMer/forelesing/PlenumMerKlasserObjekter1/Stab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke11_KlassOgObjekterMer/forelesing/Static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke11_KlassOgObjekterMer/forelesing/toString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke11_KlassOgObjekterMer/oppgaver/oppgave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke12_MerKlasserOgObjekter2/forelesning/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke12_MerKlasserOgObjekter2/forelesning/Parametere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke12_MerKlasserOgObjekter2/forelesning/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke13_Arv/forelesing/Arv1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke13_Arv/forelesing/Arv2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke13_Arv/forelesing/Studie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke13_Arv/oving/KjøretøyOgBil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke14_Interface/abstrak/Abstrakt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke14_Interface/forelesing/Abstrakte/Abstrakt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke14_Interface/forelesing/Interface3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke14_Interface/oving/Motorvogn1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/klassen/BinartSok.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/klassen/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/klassen/Plenum_kode9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/klassen/References.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/klassen/array3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/klassen/array4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/klassen/minMaks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/oppgaver/oppgave1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/oppgaver/oppgave2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/oppgaver/oppgave3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/oppgaver/oppgave4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/oppgaver/oppgave5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/oppgaver/oppgave6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/oppgaver/oppgave7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke8_Array/oppgaver/oppgave8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke9_Array2/oppgaver/oppgave1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke9_Array2/oppgaver/oppgave2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke9_Array2/oppgaver/oppgave3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke9_Array2/oppgaver/oppgave4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke9_Array2/oppgaver/oppgave5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke9_Array2/oppgaver/oppgave6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke9_Array2/skolen/Array2Dim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke9_Array2/skolen/Array5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke9_Array2/skolen/BilArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke9_Array2/skolen/Plenum_kode_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstsemester/uke9_Array2/skolen/arraylist.java" afterDir="false" />
+    <list default="true" id="cf92dcb2-6338-4cb5-bd83-9c5d4b82e948" name="Changes" comment="All practice for java">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firstsemester/uke7/oppgaver/oppgaveVans3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstsemester/uke7/oppgaver/oppgaveVans3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uke9_Array2/skolen/LeggeObjekt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstsemester/uke9_Array2/skolen/LeggeObjekt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uke9_Array2/skolen/listen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstsemester/uke9_Array2/skolen/listen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +47,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "editor.preferences.tabs",
     "vue.rearranger.settings.migration": "true"
   }
@@ -242,6 +169,7 @@
       <updated>1661766103477</updated>
       <workItem from="1736368287127" duration="89000" />
       <workItem from="1736368426773" duration="519000" />
+      <workItem from="1736368971947" duration="1892000" />
     </task>
     <task id="LOCAL−00001" summary="oppgave1_Aritmetikk">
       <created>1666599363766</created>
@@ -249,7 +177,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1666599363766</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="All practice for java">
+      <created>1736369096879</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1736369096879</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +202,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="oppgave1_Aritmetikk" />
-    <option name="LAST_COMMIT_MESSAGE" value="oppgave1_Aritmetikk" />
+    <MESSAGE value="All practice for java" />
+    <option name="LAST_COMMIT_MESSAGE" value="All practice for java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
