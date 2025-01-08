@@ -1,7 +1,6 @@
-package uke9_Array2.skolen;
+package firstsemester.uke9_Array2.skolen;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 class Person{
     public String navn;

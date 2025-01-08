@@ -1,4 +1,4 @@
-package uke9_Array2.skolen;
+package firstsemester.uke9_Array2.skolen;
 
 public class listen {
     public static void main(String[] args) {
